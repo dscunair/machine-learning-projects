@@ -4,12 +4,12 @@ Let's learn and contribute together by submit your machine learning projects wit
 
 
 ## Project Title
- - <a href="HeatMap/">Detecting expression face using heatmap (on going) </a>
-
+- Kaggle Student Performance Analysis & Prediction
+- <a href="HeatMap/">Detecting expression face using heatmap (on going) </a>
 
 ## Contributors
+- Affandy Fahrizain
 - [Halid](https://github.com/hmk1337)
-- 
 
 
 ## How to contribute
