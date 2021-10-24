@@ -6,6 +6,7 @@ Let's learn and contribute together by submit your machine learning projects wit
 ## Project Title
 - Kaggle Student Performance Analysis & Prediction
 - <a href="HeatMap/">Detecting expression face using heatmap (on going) </a>
+- AOI project
 
 ## Contributors
 - Affandy Fahrizain
