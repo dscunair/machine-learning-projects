@@ -4,11 +4,12 @@ Let's learn and contribute together by submit your machine learning projects wit
 
 
 ## Project Title
-- Kaggle Student Performance Analysis & Prediction
+- <a href="./kaggle-student-performance">Kaggle Student Performance Analysis & Prediction</a>
 - <a href="HeatMap/">Detecting expression face using heatmap (on going) </a>
+- <a href="./cnn-digit-recognizer">CNN Digit Recognizer</a>
 
 ## Contributors
-- Affandy Fahrizain
+- [Fahrizain](https://github.com/fhrzn)
 - [Halid](https://github.com/hmk1337)
 
 
