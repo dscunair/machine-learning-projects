@@ -8,6 +8,7 @@ Let's learn and contribute together by submit your machine learning projects wit
 
 - Kaggle Student Performance Analysis & Prediction
 - <a href="HeatMap/">Detecting expression face using heatmap (on going) </a>
+- Kaggle Titanic Machine Learning Model
 
 ## Contributors
 
