@@ -7,6 +7,7 @@ Let's learn and contribute together by submit your machine learning projects wit
 ## Project Title
 - <a href="./kaggle-student-performance">Kaggle Student Performance Analysis & Prediction</a>
 - <a href="HeatMap/">Detecting expression face using heatmap (on going) </a>
+- AOI project
 - <a href="./cnn-digit-recognizer">CNN Digit Recognizer</a>
 - <a href="./heart-disease">Kaggle Heart Disease</a>
 
