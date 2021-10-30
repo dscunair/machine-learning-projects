@@ -11,7 +11,7 @@ Let's learn and contribute together by submit your machine learning projects wit
 - AOI project
 - <a href="./cnn-digit-recognizer">CNN Digit Recognizer</a>
 - <a href="./heart-disease">Kaggle Heart Disease</a>
-- <a href="./Personal-Loan-(Supervised-Learning)">Supervised Learning Modeling (Bank) </a>
+- <a href="./Personal-Loan-(Supervised-Learning)">Supervised Learning Modeling (Case : Personal loan) </a>
 
 ## Contributors
 
