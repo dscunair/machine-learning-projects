@@ -12,7 +12,7 @@ Let's learn and contribute together by submit your machine learning projects wit
 - <a href="./cnn-digit-recognizer">CNN Digit Recognizer</a>
 - <a href="./heart-disease">Kaggle Heart Disease</a>
 - <a href="./Personal-Loan-(Supervised-Learning)">Supervised Learning Modeling (Case : Personal loan) </a>
-- <a href="./dicoding-rockpaperscissor-classification">CNN Rock Paper Scissor Classification</a>
+- <a href="./dicoding-rockscissorpaper-classification">CNN Rock Paper Scissor Classification</a>
 
 ## Contributors
 
